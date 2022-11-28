@@ -3,5 +3,5 @@ numpy
 tensorflow
 sklearn
 scikit-learn
-opencv
+image
 pickle5
